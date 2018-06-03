@@ -10,4 +10,5 @@
   "微信扫一扫":"weixin://scanqrcode",
   "网易云音乐":"orpheuswidget://",
   "迅雷":"thunder://""
+  "指尖浏览器":"scamperllqweb://${urlStr}"
 }
